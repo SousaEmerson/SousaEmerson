@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My main technology is [Node.js](https://nodejs.org/en/) <br>
+But I like everything related to the JS universe, so if you have something related to JS let me see, I am very interested! 😉
+
 <div>
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaEmerson&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=280" />
